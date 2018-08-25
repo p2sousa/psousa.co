@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "psousa-site",
+    "psousa-site": "psousa-site"
+  }
+}
