@@ -63,3 +63,5 @@ typings/
 # System and IDE
 .DS_Store
 .vscode
+
+public/
